@@ -6,8 +6,8 @@
 * reupload izin anjg gua gua cape buat nya!!
 * ini script pribadi gua!!
 */
-const XPTN = '👾XP-TN👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/_xptn'; // Nama Instagramlu cok
+const XPTN = '👾F4S BOT👾'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/ferdi_ardian21'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6289655478810'; // Nomor whatsapplu cok
 const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
 const groupwa = 'https://chat.whatsapp.com/GDdd0I3WlF5LnMVifmS7rN'; // OFFICIAL GRUP LU 1
