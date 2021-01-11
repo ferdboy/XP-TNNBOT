@@ -7,7 +7,7 @@
 * ini script pribadi gua!!
 */
 const XPTN = '👾F4S BOT👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/_xptn'; // Nama Instagramlu cok
+const instagram = 'https://instagram.com/ferdi_ardian21'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6282169369877'; // Nomor whatsapplu cok
 const aktif = '24 Jam'; // Kapan bot lu aktif
 const groupwa = 'https://chat.whatsapp.com/GQRkuhH34C80Y6JWwG3xXl'; // OFFICIAL GRUP LU 1
@@ -161,10 +161,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner XP-TN wa.me/+6289655478810' ,MessageType.text);
+conn.sendMessage(id, 'Owner FerSayang wa.me/+6282169369877' ,MessageType.text);
 }
-else if (text == 'Agung'){
-conn.sendMessage(id, 'Aku BOT nya XP-TN' ,MessageType.text);
+else if (text == 'Fer'){
+conn.sendMessage(id, 'Aku BOT nya F4S BOT' ,MessageType.text);
 }
 else if (text == 'wenda'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
@@ -181,8 +181,8 @@ conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
 else if (text == 'Bacot'){
 conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
 }
-else if (text == 'Test'){
-conn.sendMessage(id, 'Test 1,2,3 ketik .help' ,MessageType.text);
+else if (text == 'Tes'){
+conn.sendMessage(id, 'Tes 1,2,3 ketik .help' ,MessageType.text);
 }
 else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
@@ -230,7 +230,7 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan1 iskandar wa.me/+6282351208767' ,MessageType.text);
+conn.sendMessage(id, 'kawan1 Syarif uwwu wa.me/+6282351208767' ,MessageType.text);
 }
 else if (text == '.coowner'){
 conn.sendMessage(id, 'kawan2 testing script wa.me/+6282169369877' ,MessageType.text);
