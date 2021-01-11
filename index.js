@@ -37,8 +37,8 @@ const sellernomor = require("./lib/sellernomor.js");
 const readTextInImage = require('./lib/ocr')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:XP Ganss\n' // full name
-            + 'ORG:Owner XPTN Bot;\n' // the organization of the contact
+            + 'FN:Ferdi Ganss\n' // full name
+            + 'ORG:Owner F4S Bot;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=6282169369877:+62 821-6936-9877\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 //
@@ -164,9 +164,9 @@ else if (text == '.owner'){
 conn.sendMessage(id, 'Owner FerSayang wa.me/+6282169369877' ,MessageType.text);
 }
 else if (text == 'Fer'){
-conn.sendMessage(id, 'Aku BOT nya F4S BOT' ,MessageType.text);
+conn.sendMessage(id, 'Aku BOT nya Ferdi uwwu' ,MessageType.text);
 }
-else if (text == 'wenda'){
+else if (text == 'Tasya'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
 }
 else if (text == 'bangsat'){
@@ -197,7 +197,7 @@ else if (text == 'Eoy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == ':v'){
-conn.sendMessage(id, 'Ada Apa Ferdi Sayang ♥️?' ,MessageType.text);
+conn.sendMessage(id, 'Ada Apa Ferdi Sayang?♥️' ,MessageType.text);
 }
 else if (text == 'Gan'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
@@ -229,11 +229,11 @@ conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.
 else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
-else if (text == '.frendsowner'){
-conn.sendMessage(id, 'kawan1 Syarif uwwu wa.me/+6282351208767' ,MessageType.text);
+else if (text == '.friendsowner'){
+conn.sendMessage(id, 'nih friendsownerku Syarif uwwu wa.me/+6282351208767' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'kawan2 testing script wa.me/+6282169369877' ,MessageType.text);
+conn.sendMessage(id, 'gw sendiri :v testing script? wa.me/+6282169369877' ,MessageType.text);
 }
 else if (text == '.groupbot'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/GQRkuhH34C80Y6JWwG3xXl' ,MessageType.text);
@@ -565,7 +565,7 @@ if (text.includes(".nekonime")) {
   const teks = text.replace(/.nekonime /, "")
   axios.get(`https://st4rz.herokuapp.com/api/nekonime`).then((res) => {
     conn.sendMessage(id, '[WAIT] Searching...❗', MessageType.text)
-    let hasil = ` *Nih animenya :)*\n\n _${res.data.result}_ `;
+    let hasil = ` *Wibu luh -_*\n\n _${res.data.result}_ `;
     conn.sendMessage(id, hasil, MessageType.text);
   })
 }
