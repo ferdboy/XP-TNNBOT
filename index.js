@@ -166,7 +166,7 @@ conn.sendMessage(id, 'Owner FerSayang wa.me/+6282169369877' ,MessageType.text);
 else if (text == 'Fer'){
 conn.sendMessage(id, 'Aku BOT nya Ferdi uwwu' ,MessageType.text);
 }
-else if (text == 'Tasya'){
+else if (text == 'Nabila'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
 }
 else if (text == 'bangsat'){
@@ -230,7 +230,7 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh .help' ,MessageType.text);
 }
 else if (text == '.friendsowner'){
-conn.sendMessage(id, 'nih friendsownerku Syarif uwwu wa.me/+6282351208767' ,MessageType.text);
+conn.sendMessage(id, 'nih friendsownerku Syarif uwwu wa.me/+6282213966802' ,MessageType.text);
 }
 else if (text == '.coowner'){
 conn.sendMessage(id, 'gw sendiri :v testing script? wa.me/+6282169369877' ,MessageType.text);
