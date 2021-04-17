@@ -1,7 +1,7 @@
 /*
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya XP-TN)
-* jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
+* jangan ubah semuanya keculi nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!!
 * reupload izin anjg gua gua cape buat nya!!
 * ini script pribadi gua!!
